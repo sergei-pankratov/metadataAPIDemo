@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>mdCopyStrategyRequest</members>
+    <members>mdCreateOrUpdateStrategyRequest</members>
+    <members>mdDeleteStrategyRequest</members>
+    <members>mdGetStrategyRequest</members>
+    <members>mdLoadStrategyNamesRequest</members>
+    <members>mdRenameStrategyRequest</members>
+    <members>metadataDemo</members>
+    <members>metadataDemoApp</members>
+    <members>parentComponent</members>
+    <members>sessionIdRetrievalComponent</members>
+  </types>
+  <types>
+    <name>ApexClass</name>
+    <members>HexUtil</members>
+    <members>MetadataDemoController</members>
+    <members>MetadataService</members>
+    <members>Puff</members>
+    <members>Utils</members>
+    <members>XPath</members>
+    <members>Zippex</members>
+    <members>ZippexTests</members>
+  </types>
+  <types>
+    <name>ApexPage</name>
+    <members>sessionIdRetrievalVFPage</members>
+  </types>
+  <version>42.0</version>
+  <fullName>testPackage</fullName>
+</Package>

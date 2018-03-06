@@ -1,0 +1,39 @@
+<aura:component>
+
+    <aura:attribute type="List" name="strategyNames" />
+    <aura:attribute type="String" name="curStrategyXML" />
+    <aura:attribute type="String" name="curStrategyName" />
+    <aura:attribute type="String" name="newStrategyName" />
+
+    <aura:registerEvent name="mdLoadStrategyNamesRequest" type="c:mdLoadStrategyNamesRequest" />
+
+    <c:metadataDemo aura:id="metadataComponent" />
+
+
+    <div>
+
+
+        <lightning:select label="strategies" value="{!v.curStrategyName}" onchange="{!c.strategySelected}">
+            <aura:iteration items="{!v.strategyNames}" var="strategyName">
+                <option label="{!strategyName}" value="{!strategyName}" />
+            </aura:iteration>
+        </lightning:select>
+
+        <lightning:input label="curStrategyName" value="{!v.curStrategyName}" />
+        <lightning:input label="newStrategyName" value="{!v.newStrategyName}" />
+        <lightning:textarea label="curStrategyXML" value="{!v.curStrategyXML}" />
+
+
+
+
+
+
+        <lightning:button label="loadStrategyNames" onclick="{!c.loadStrategyNamesDummy}" />
+        <lightning:button label="loadStrategy" onclick="{!c.getStrategyDummy}" />
+        <lightning:button label="createOrUpdateStrategy" onclick="{!c.createOrUpdateStrategyDummy}" />
+        <lightning:button label="deleteStrategy" onclick="{!c.deleteStrategyDummy}" />
+        <lightning:button label="renameStrategy" onclick="{!c.renameStrategyDummy}" />
+        <lightning:button label="copyStrategy" onclick="{!c.copyStrategyDummy}" />
+    </div>
+
+</aura:component>

@@ -1,0 +1,11 @@
+<apex:page>
+    <!--we use VF page to retrieve SessionId capable of API call. We pass sessionId to lighnting component-->
+    <!-- https://salesforce.stackexchange.com/questions/110515/getting-session-id-in-lightning -->
+    <apex:outputtext id="sessionId" value='{!$Api.Session_ID}' />
+
+    <script>
+        var lexOrigin = "https://alexed11-gs0-demo-dev-ed.lightning.force.com";
+        var sessionId = document.getElementById('{!$Component.sessionId}').innerHTML;
+        parent.postMessage(sessionId, lexOrigin);
+    </script>
+</apex:page>

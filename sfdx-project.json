@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://alexed11-gs0-demo-dev-ed.my.salesforce.com",
+  "sourceApiVersion": "42.0"
+}
