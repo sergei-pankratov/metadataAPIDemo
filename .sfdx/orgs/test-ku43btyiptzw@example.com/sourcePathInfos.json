@@ -1,0 +1,978 @@
+[
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519796149174,
+            "changeTime": 1519796149174,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519819846271,
+            "changeTime": 1519819846271,
+            "contentHash": "97af7b4bfbd0e52906f6aec656fb71a4f256f4cf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520604333545,
+            "changeTime": 1520604333545,
+            "contentHash": "ea527d76d5d7155c30acc3287e58fcfdeded1715"
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519909558122,
+            "changeTime": 1519909558122,
+            "contentHash": "c2a3e811440a32556f650e05c99ff1671c2c7836",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519909558122,
+            "changeTime": 1519909558122,
+            "contentHash": "8612ec68be32e76a10d70547b3f5d6b36cc54385",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdCopyStrategyRequest",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdCopyStrategyRequest",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519909241003,
+            "changeTime": 1519909339034,
+            "contentHash": "dfbde8d88d518ff0c2f69477181e8aac2f02a797",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdCopyStrategyRequest\\mdCopyStrategyRequest.evt",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdCopyStrategyRequest\\mdCopyStrategyRequest.evt",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1520346275826,
+            "changeTime": 1520346275826,
+            "contentHash": "49f54daa871dcae2640a306b3425bdee2cd63250",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdCopyStrategyRequest\\mdCopyStrategyRequest.evt-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdCopyStrategyRequest\\mdCopyStrategyRequest.evt-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1519909241003,
+            "changeTime": 1519909241003,
+            "contentHash": "96c1d19c1acbe7e06575b5eaef8862372a4adf19",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdCreateOrUpdateStrategyRequest",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdCreateOrUpdateStrategyRequest",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519909182360,
+            "changeTime": 1519909339034,
+            "contentHash": "aec7a8d4ee3c7fd5ed3ce16d5d01d3e6e1581aab",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdCreateOrUpdateStrategyRequest\\mdCreateOrUpdateStrategyRequest.evt",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdCreateOrUpdateStrategyRequest\\mdCreateOrUpdateStrategyRequest.evt",
+            "isDirectory": false,
+            "size": 183,
+            "modifiedTime": 1519909482773,
+            "changeTime": 1519909482773,
+            "contentHash": "db238ed44d2fca28d08ede9b088990b4381d6b85",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdCreateOrUpdateStrategyRequest\\mdCreateOrUpdateStrategyRequest.evt-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdCreateOrUpdateStrategyRequest\\mdCreateOrUpdateStrategyRequest.evt-meta.xml",
+            "isDirectory": false,
+            "size": 259,
+            "modifiedTime": 1519909182360,
+            "changeTime": 1519909182360,
+            "contentHash": "b3d6fd42df688470d0dc7309a1702a266bc0ad0c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdDeleteStrategyRequest",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdDeleteStrategyRequest",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519909208670,
+            "changeTime": 1519909339034,
+            "contentHash": "7cf1c041ba2551b37dcac7e766da0a18f8d8d719",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdDeleteStrategyRequest\\mdDeleteStrategyRequest.evt",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdDeleteStrategyRequest\\mdDeleteStrategyRequest.evt",
+            "isDirectory": false,
+            "size": 184,
+            "modifiedTime": 1519909504846,
+            "changeTime": 1519909504846,
+            "contentHash": "4266a4697b2e84f64cecc65152b00a2a4c981942",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdDeleteStrategyRequest\\mdDeleteStrategyRequest.evt-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdDeleteStrategyRequest\\mdDeleteStrategyRequest.evt-meta.xml",
+            "isDirectory": false,
+            "size": 251,
+            "modifiedTime": 1519909208670,
+            "changeTime": 1519909208670,
+            "contentHash": "6555c796c671c1d5607b4318c1d3c3ddb6c5116a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdGetStrategyRequest",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdGetStrategyRequest",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519909409819,
+            "changeTime": 1519909558123,
+            "contentHash": "3d1fc7177714b1f8785cd74661c8ac3972aacc7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdGetStrategyRequest\\mdGetStrategyRequest.evt",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdGetStrategyRequest\\mdGetStrategyRequest.evt",
+            "isDirectory": false,
+            "size": 184,
+            "modifiedTime": 1519909428079,
+            "changeTime": 1519909428079,
+            "contentHash": "4266a4697b2e84f64cecc65152b00a2a4c981942",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdGetStrategyRequest\\mdGetStrategyRequest.evt-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdGetStrategyRequest\\mdGetStrategyRequest.evt-meta.xml",
+            "isDirectory": false,
+            "size": 248,
+            "modifiedTime": 1519909409819,
+            "changeTime": 1519909409819,
+            "contentHash": "ab449beba59e9d4a4c380307030672d6cc158055",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdLoadStrategyNamesRequest",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdLoadStrategyNamesRequest",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519908364655,
+            "changeTime": 1519909339036,
+            "contentHash": "1b6ef5f83ce73da2cfe39398805702a0c96be729",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdLoadStrategyNamesRequest\\mdLoadStrategyNamesRequest.evt",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdLoadStrategyNamesRequest\\mdLoadStrategyNamesRequest.evt",
+            "isDirectory": false,
+            "size": 181,
+            "modifiedTime": 1519908360373,
+            "changeTime": 1519908360373,
+            "contentHash": "224078b8609092e442d01c0f479b896329eb9c8e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdLoadStrategyNamesRequest\\mdLoadStrategyNamesRequest.evt-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdLoadStrategyNamesRequest\\mdLoadStrategyNamesRequest.evt-meta.xml",
+            "isDirectory": false,
+            "size": 254,
+            "modifiedTime": 1519908368736,
+            "changeTime": 1519908368736,
+            "contentHash": "9b8b77e097841edd681b40b8c6fd9481b5bdf12f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdRenameStrategyRequest",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdRenameStrategyRequest",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519909227049,
+            "changeTime": 1519909339033,
+            "contentHash": "b5dc6b34ecb751c29328b4a467c46c7e4b398e39",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdRenameStrategyRequest\\mdRenameStrategyRequest.evt",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdRenameStrategyRequest\\mdRenameStrategyRequest.evt",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1520345385771,
+            "changeTime": 1520345385772,
+            "contentHash": "70d9f40428ec44704c06bc2b85a27f228ff6edcc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdRenameStrategyRequest\\mdRenameStrategyRequest.evt-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\events\\mdRenameStrategyRequest\\mdRenameStrategyRequest.evt-meta.xml",
+            "isDirectory": false,
+            "size": 251,
+            "modifiedTime": 1519909227049,
+            "changeTime": 1519909227049,
+            "contentHash": "2ee8bc8c1282353c202419c1f63b300e1e858c27",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemo",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519816331147,
+            "changeTime": 1519816331161,
+            "contentHash": "6ba8c2bdb67114ae5eab157ca2c416ad3e1b09cc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemo\\metadataDemo.cmp",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemo\\metadataDemo.cmp",
+            "isDirectory": false,
+            "size": 1103,
+            "modifiedTime": 1520258731512,
+            "changeTime": 1520258731512,
+            "contentHash": "1dfd5e3321eb669d3ae13d5c5217e5fca693d3e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemo\\metadataDemo.cmp-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemo\\metadataDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1519815728168,
+            "changeTime": 1519815728168,
+            "contentHash": "ece3c66c0ce9c7d0dcc0a77583cb14daa012e1db",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemo\\metadataDemoController.js",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemo\\metadataDemoController.js",
+            "isDirectory": false,
+            "size": 613,
+            "modifiedTime": 1520258835056,
+            "changeTime": 1520258835056,
+            "contentHash": "2108475cb7e1ea56cf5700dd106bdd5978337d1c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemo\\metadataDemoHelper.js",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemo\\metadataDemoHelper.js",
+            "isDirectory": false,
+            "size": 7093,
+            "modifiedTime": 1520346148264,
+            "changeTime": 1520346148264,
+            "contentHash": "379a6f0d7b7f12a31268d92b60ffd831c4388aaa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemoApp",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemoApp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519815811066,
+            "changeTime": 1519815811066,
+            "contentHash": "14c89b0ac3d2351e333f1738ccf4c70dd06919f0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemoApp\\metadataDemoApp.app",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemoApp\\metadataDemoApp.app",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1519907974965,
+            "changeTime": 1519907974965,
+            "contentHash": "18f58815d547418370684696674e8ef1fc4d0a6a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemoApp\\metadataDemoApp.app-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\metadataDemoApp\\metadataDemoApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1519815789030,
+            "changeTime": 1519815789030,
+            "contentHash": "f30c4046fca54464fb8f655b433fd136d0e87011",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\parentComponent",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\parentComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519907742091,
+            "changeTime": 1519907742091,
+            "contentHash": "fb08fd8bf31f2dbb9862cb42d0ec4730a11f0d6f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\parentComponent\\parentComponent.cmp",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\parentComponent\\parentComponent.cmp",
+            "isDirectory": false,
+            "size": 1548,
+            "modifiedTime": 1519910689565,
+            "changeTime": 1519910689565,
+            "contentHash": "9acfdde19578db477a7da801a08696295a78bef2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\parentComponent\\parentComponent.cmp-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\parentComponent\\parentComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1519907710617,
+            "changeTime": 1519907710617,
+            "contentHash": "17c5349496dd1ea369c27d5565b3fe8bf695ec87",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\parentComponent\\parentComponentController.js",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\parentComponent\\parentComponentController.js",
+            "isDirectory": false,
+            "size": 867,
+            "modifiedTime": 1519910568687,
+            "changeTime": 1519910568687,
+            "contentHash": "4797df55f7f53cc82544fc9c356e28e652e44388",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\parentComponent\\parentComponentHelper.js",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\parentComponent\\parentComponentHelper.js",
+            "isDirectory": false,
+            "size": 2442,
+            "modifiedTime": 1520346300619,
+            "changeTime": 1520346300620,
+            "contentHash": "c9354dab5404aefed4ea85dc633e5dcbc64e7d71",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\sessionIdRetrievalComponent",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\sessionIdRetrievalComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1519897500345,
+            "changeTime": 1519897500345,
+            "contentHash": "d9e3320eac8091c4fb2c187abcd9a2e08c247eea",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\sessionIdRetrievalComponent\\sessionIdRetrievalComponent.cmp",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\sessionIdRetrievalComponent\\sessionIdRetrievalComponent.cmp",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1519990310539,
+            "changeTime": 1519990310539,
+            "contentHash": "3b3c887cb7d131185c745a53ca0b49337b3dc9ae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\sessionIdRetrievalComponent\\sessionIdRetrievalComponent.cmp-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\sessionIdRetrievalComponent\\sessionIdRetrievalComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 259,
+            "modifiedTime": 1519897096445,
+            "changeTime": 1519897096445,
+            "contentHash": "db8f832168548476bc3806059f18742d885855ee",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\sessionIdRetrievalComponent\\sessionIdRetrievalComponentController.js",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\aura\\sessionIdRetrievalComponent\\sessionIdRetrievalComponentController.js",
+            "isDirectory": false,
+            "size": 520,
+            "modifiedTime": 1519897362516,
+            "changeTime": 1519897362517,
+            "contentHash": "72fe1144726ac4cbd63c73f72bf93392e44aaa03",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520251145820,
+            "changeTime": 1520251145820,
+            "contentHash": "8ec7adf1c41d98fbbe8ba034d43ccbb6d92b8f7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\HexUtil.cls",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\HexUtil.cls",
+            "isDirectory": false,
+            "size": 8158,
+            "modifiedTime": 1519809968333,
+            "changeTime": 1519809968333,
+            "contentHash": "e9110310fff6d8610073d05a5846bf75b47ce4da",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\HexUtil.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\HexUtil.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1519811447129,
+            "changeTime": 1519811447129,
+            "contentHash": "f6f319f126dfc21d5abbffe6c65211457fdfa270",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\MetadataDemoController.cls",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\MetadataDemoController.cls",
+            "isDirectory": false,
+            "size": 10147,
+            "modifiedTime": 1520434345642,
+            "changeTime": 1520434345642,
+            "contentHash": "e6110da6256bb9b04d66d3bc6d670f7366069d78",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\MetadataDemoController.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\MetadataDemoController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1519815895627,
+            "changeTime": 1519815895627,
+            "contentHash": "75dbfc657e6a9f1d25da67026f92a69c3925ce96",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\MetadataService.cls",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\MetadataService.cls",
+            "isDirectory": false,
+            "size": 984310,
+            "modifiedTime": 1520434348523,
+            "changeTime": 1520434348523,
+            "contentHash": "38fa5feed5ea294a1f87945d86ef36f50d650640",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\MetadataService.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\MetadataService.cls-meta.xml",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1519796838145,
+            "changeTime": 1519796838145,
+            "contentHash": "2fcb1ba07c04dfa75b900538e4eb6469df8f9bd2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\Puff.cls",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\Puff.cls",
+            "isDirectory": false,
+            "size": 36988,
+            "modifiedTime": 1519809968335,
+            "changeTime": 1519809968335,
+            "contentHash": "3d2be878784e4e23f89b9b2a431f5928d7f89fb1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\Puff.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\Puff.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1519811447129,
+            "changeTime": 1519811447129,
+            "contentHash": "f6f319f126dfc21d5abbffe6c65211457fdfa270",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\Utils.cls",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\Utils.cls",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1519818694079,
+            "changeTime": 1519818694079,
+            "contentHash": "5c318ac5d79a25b61026361974f8b089e909e452",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\Utils.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\Utils.cls-meta.xml",
+            "isDirectory": false,
+            "size": 183,
+            "modifiedTime": 1519818680723,
+            "changeTime": 1519818680723,
+            "contentHash": "ea6de645a0782229ba6d6f5092869c6846191cf2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\XPath.cls",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\XPath.cls",
+            "isDirectory": false,
+            "size": 19245,
+            "modifiedTime": 1520251147813,
+            "changeTime": 1520251147813,
+            "contentHash": "ca8b196befbc1bf93db2b17ad7aef9e8c860c09e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\XPath.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\XPath.cls-meta.xml",
+            "isDirectory": false,
+            "size": 183,
+            "modifiedTime": 1520251145820,
+            "changeTime": 1520251145820,
+            "contentHash": "a0833c71bda2ef9e99049f7577200f62f2db6219",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\Zippex.cls",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\Zippex.cls",
+            "isDirectory": false,
+            "size": 23684,
+            "modifiedTime": 1519809968336,
+            "changeTime": 1519809968336,
+            "contentHash": "d1d8b365e6bb994b6a5c38a81fb8fdbd0b31ce96",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\Zippex.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\Zippex.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1519811447129,
+            "changeTime": 1519811447129,
+            "contentHash": "f6f319f126dfc21d5abbffe6c65211457fdfa270",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\ZippexTests.cls",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\ZippexTests.cls",
+            "isDirectory": false,
+            "size": 7475,
+            "modifiedTime": 1519809968337,
+            "changeTime": 1519809968337,
+            "contentHash": "2ea2a378e1aec45169be627f0b0448109c9273f6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\ZippexTests.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\classes\\ZippexTests.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1519811447129,
+            "changeTime": 1519811447129,
+            "contentHash": "f6f319f126dfc21d5abbffe6c65211457fdfa270",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\sessionIdRetrievalVFPage.page",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\sessionIdRetrievalVFPage.page",
+            "isDirectory": false,
+            "size": 543,
+            "modifiedTime": 1519822639088,
+            "changeTime": 1519822639089,
+            "contentHash": "1b5cd4902535868cdb5595a7d861ee7761caf9be",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\sessionIdRetrievalVFPage.page-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\sessionIdRetrievalVFPage.page-meta.xml",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1519819846271,
+            "changeTime": 1519819846271,
+            "contentHash": "1557864c6c548d62993f453fac9618521628842a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520346486415,
+            "changeTime": 1520346486415,
+            "contentHash": "346a8511377ea0911ce3a15a00fca686963de523",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\connectedApps\\StratcraftMDAPI.connectedApp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\connectedApps\\StratcraftMDAPI.connectedApp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 564,
+            "modifiedTime": 1520604333549,
+            "changeTime": 1520604333549,
+            "contentHash": "05b7eb4745cb360722636f95bdd1e444a55de881"
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\connectedApps",
+        {
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\connectedApps",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520603875106,
+            "changeTime": 1520603875106,
+            "contentHash": "989c90a4aab934f6603c8eaa9880da93b7af967a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\namedCredentials\\StratcraftMDAPI.namedCredential-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\namedCredentials\\StratcraftMDAPI.namedCredential-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 616,
+            "modifiedTime": 1520604333543,
+            "changeTime": 1520604333543,
+            "contentHash": "56d6eb032283013acf8a76b144f1e4038906d049"
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\authproviders\\StratcraftMDAPI.authprovider-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\authproviders\\StratcraftMDAPI.authprovider-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 663,
+            "modifiedTime": 1520604333546,
+            "changeTime": 1520604333546,
+            "contentHash": "c10692fddc631e056df3330b6f7a9e9681330747"
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\namedCredentials",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\namedCredentials",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520604333543,
+            "changeTime": 1520604333543,
+            "contentHash": "47e0184794077bb019284120548a3dfdc9e5e7f2"
+        }
+    ],
+    [
+        "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\authproviders",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\tehne\\Documents\\salesforce\\metadataDemo\\metadataDemo\\force-app\\main\\default\\authproviders",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520604333546,
+            "changeTime": 1520604333546,
+            "contentHash": "6a24a05026cb3102fd2081899cda4878cff79ffa"
+        }
+    ]
+]

@@ -1,4 +1,4 @@
-public with sharing class MetadataDemoController {
+public with sharing class MetadataServiceController {
 
 
 @AuraEnabled
@@ -173,6 +173,7 @@ public static List<String> loadStrategyNamesRequest(String sessionId){
 
 	try{
 		MetadataService.MetadataPort service = createClient(sessionId);
+		
 		List<MetadataService.ListMetadataQuery> queries = new List<MetadataService.ListMetadataQuery>();
 		MetadataService.ListMetadataQuery queryWorkflow = new MetadataService.ListMetadataQuery();
 		queryWorkflow.type_x = 'RecommendationStrategy';
@@ -241,8 +242,19 @@ private static String formXML(string strategyName){
 
 
 private static MetadataService.MetadataPort createClient(String sessionId){
+
+	// fix for refresh token from this article https://www.gscloudsolutions.com/blogpost/Using-Named-Credentials-with-the-Apex-Wrapper-Salesforce-Metadata-API-apex-mdapi?blogpost=true&utm_source=twitter&utm_medium=social&utm_campaign=named_credentials
+	// needed if we user named credentials
+	// String restUrl = 'callout:StratcraftMDAPI/services/data/v42.0/limits';
+	// Http h = new Http();
+	// HttpRequest req = new HttpRequest();
+	// req.setEndpoint(restUrl);
+	// req.setMethod('GET');
+	// HttpResponse res = h.send(req);
+
 	MetadataService.MetadataPort service = new MetadataService.MetadataPort();
 	service.SessionHeader = new MetadataService.SessionHeader_element();
+	//service.SessionHeader.sessionId = '{!$Credential.OAuthToken}';
 	service.SessionHeader.sessionId = sessionId;
 	return service;
 }

@@ -1,4 +1,4 @@
-<aura:component controller="MetadataDemoController">
+<aura:component controller="MetadataServiceController">
 
     <aura:attribute type="String" name="sessionId" />
     <aura:attribute type="String" name="message" />

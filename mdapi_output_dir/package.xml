@@ -8,16 +8,17 @@
     <members>mdGetStrategyRequest</members>
     <members>mdLoadStrategyNamesRequest</members>
     <members>mdRenameStrategyRequest</members>
-    <members>metadataDemo</members>
     <members>metadataDemoApp</members>
+    <members>metadataService</members>
     <members>parentComponent</members>
     <members>sessionIdRetrievalComponent</members>
   </types>
   <types>
     <name>ApexClass</name>
     <members>HexUtil</members>
-    <members>MetadataDemoController</members>
     <members>MetadataService</members>
+    <members>MetadataServiceController</members>
+    <members>MetadataSessionHelper</members>
     <members>Puff</members>
     <members>Utils</members>
     <members>XPath</members>

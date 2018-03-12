@@ -7,7 +7,7 @@
 
     <aura:registerEvent name="mdLoadStrategyNamesRequest" type="c:mdLoadStrategyNamesRequest" />
 
-    <c:metadataDemo aura:id="metadataComponent" />
+    <c:metadataService aura:id="metadataComponent" />
 
 
     <div>
@@ -21,7 +21,7 @@
 
         <lightning:input label="curStrategyName" value="{!v.curStrategyName}" />
         <lightning:input label="newStrategyName" value="{!v.newStrategyName}" />
-        <lightning:textarea label="curStrategyXML" value="{!v.curStrategyXML}" />
+        <lightning:textarea  label="curStrategyXML" value="{!v.curStrategyXML}" />
 
 
 
